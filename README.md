@@ -6,8 +6,8 @@ This is a test program for creating a new window in Avalonia UI.
 3. Make the SubWindow open when the button in the MainWindow is pressed
 
 ## Test environment: 
-1. Windows 11 .NET 8
-2. Raspberry Pi Zero 2 W + Raspbian
+1. Windows 11 .NET 8 (Avalonia ui Version 11.0.1)
+2. Raspberry Pi Zero 2 W + Raspbian (Avalonia ui Version 11.0.1)
 
 
 ## Problems confirmed on Raspberry Pi
